@@ -2,7 +2,7 @@
 
 Book: Fortran 90 Programming (T.M.R.Ellis, Ivor R. Philips, Thomas M. Lahey)
 
-20200704: Ch4 Programming Ex 8 - 15
+20200704: Ch4 Programming Ex 8 - 15, Ch5 5.1-5.5
 
 20200703: Ch4 Programming Ex 1 - 7
 
