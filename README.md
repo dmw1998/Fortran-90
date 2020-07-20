@@ -2,6 +2,8 @@
 
 Book: Fortran 90 Programming (T.M.R.Ellis, Ivor R. Philips, Thomas M. Lahey)
 
+20200720:Ch8 Programming Ex 11 - 13
+
 20200719: Ch8 Programming Ex 6 - 10
 
 20200718: Ch8 Programming Ex 1 - 5
